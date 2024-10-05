@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on G &amp; S |  Blog Site</title>
+    <link>https://moonsheep99.github.io/categories/</link>
+    <description>Recent content in Categories on G &amp; S |  Blog Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Apr 2024 14:46:10 +0600</lastBuildDate>
+    <atom:link href="https://moonsheep99.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qingdao</title>
+      <link>https://moonsheep99.github.io/categories/qingdao/</link>
+      <pubDate>Tue, 02 Apr 2024 14:46:10 +0600</pubDate>
+      <guid>https://moonsheep99.github.io/categories/qingdao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shenyang</title>
+      <link>https://moonsheep99.github.io/categories/shenyang/</link>
+      <pubDate>Sat, 22 Apr 2023 14:46:10 +0600</pubDate>
+      <guid>https://moonsheep99.github.io/categories/shenyang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dalian</title>
+      <link>https://moonsheep99.github.io/categories/dalian/</link>
+      <pubDate>Fri, 17 Jun 2022 14:46:10 +0600</pubDate>
+      <guid>https://moonsheep99.github.io/categories/dalian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chuanyu</title>
+      <link>https://moonsheep99.github.io/categories/chuanyu/</link>
+      <pubDate>Mon, 21 Jun 2021 14:46:10 +0600</pubDate>
+      <guid>https://moonsheep99.github.io/categories/chuanyu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Food</title>
+      <link>https://moonsheep99.github.io/categories/food/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      <guid>https://moonsheep99.github.io/categories/food/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
